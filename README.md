@@ -10,6 +10,7 @@ ZhuangXiong 的个人博客
 
 ### 最新
 
+* [我在 GitHub 上的开源项目](http://www.52kuma.com/my-github-repos)
 * [ 基数排序（Radix Sort）](http://www.52kuma.com/articles/2019/09/18/1568821795187.html)
 * [世界，你好！](http://www.52kuma.com/hello-solo)
 
